@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adam-akamine
-- I’m interested in ... full-stack web development 💻, photography 📷, and rock-climbing 🧗‍♂️
-- I’m currently learning ... Angular 11, Typescript, and RxJS
+- I’m passionate about full-stack web development 💻, photography/videography 📷, and rock-climbing 🧗‍♂️
+- I’m currently learning Angular 11, Typescript, and RxJS
 
 <!---
 adam-akamine/adam-akamine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
